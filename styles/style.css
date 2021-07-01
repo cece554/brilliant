@@ -148,8 +148,8 @@ a:hover {
     display: flex;
     justify-content: center;
     flex-direction: column;
-    height: 20vh;
-    width: 20vw;
+    max-height: 20vh;
+    width: auto;
   }
   .left{
     margin-bottom: 2em;
